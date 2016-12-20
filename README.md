@@ -1,2 +1,3 @@
 # noahmacca.github.io
-Personal webpage
+
+A personal bio and directory to some of the stuff I'm working on.
